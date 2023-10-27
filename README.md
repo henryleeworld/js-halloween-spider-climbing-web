@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/9MScxpE.gif)
+![](https://i.imgur.com/T5GT85e.gif)
 > 一看到蜘蛛網就馬上會有一股毛骨悚然的感覺，好像有東西已經死很久了或被遺棄了一段時間
